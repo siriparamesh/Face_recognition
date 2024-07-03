@@ -1,6 +1,6 @@
 # Face_recognition
 ML and a data science project, classifying famous personalities. (Image recognition and classification) <br>
-<h2>Technologies used in this project,</h2>
+<h2>Technologies used: </h2>
 Python<br>
 Numpy and OpenCV for data cleaning<br>
 Matplotlib & Seaborn for data visualization<br>
